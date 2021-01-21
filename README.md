@@ -1,1 +1,1 @@
-# GreenCheap Theme Build
+# GreenCheap Extension Build
